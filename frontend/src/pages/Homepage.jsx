@@ -3,7 +3,8 @@ import { Row, Col, Button, Tag, Space, Statistic } from 'antd'
 import {
   ThunderboltOutlined, AppstoreOutlined, 
   RocketOutlined, SafetyCertificateOutlined,
-  GlobalOutlined, RiseOutlined, TeamOutlined
+  GlobalOutlined, RiseOutlined, TeamOutlined,
+  HistoryOutlined
 } from '@ant-design/icons'
 import { Link, useNavigate } from 'react-router-dom'
 import { useAuction } from '../context/AuctionContext'
